@@ -1,4 +1,4 @@
-// Write a C program to print Bah, Bah Black Sheep song?
+// Write a C program to print Bah, Bah Black Sheep song.
 
 #include <stdio.h>
 int main()
