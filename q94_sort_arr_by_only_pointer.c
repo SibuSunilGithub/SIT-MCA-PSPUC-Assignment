@@ -10,9 +10,9 @@ int main()
         scanf("%d", &arr[i]);
     }
     // Sort array by only pointers
-    for (p1 = arr; p1 < arr + 10 - 1; p1++)
+    for (p1 = arr; p1 < arr + n - 1; p1++)
     {
-        for (p2 = p1 + 1; p2 < arr + 10; p2++)
+        for (p2 = p1 + 1; p2 < arr + n; p2++)
         {
             // swap by temp variable
             if (*p2 < *p1)
