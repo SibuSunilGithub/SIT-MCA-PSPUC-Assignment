@@ -1,14 +1,9 @@
 /*
 WAP to compute EOQ and TBO given demand rate (items per unit time), setup cost(per order), and the holding cost (per item per unit time).
-
 In inventory management, the economic order quantity for a single item is given by:
-
 EOQ = sqrt((2*demandrate*setupcosts) / (holding cost per item per unit time))
-
 and the optimal time between orders:
-
 TBO = sqrt((2*setupcost)/(demand rate* holding cost per item per unit time))
-
 */
 
 #include <stdio.h>
