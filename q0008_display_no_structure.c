@@ -1,5 +1,5 @@
 /*
-Given an integer, WAP that display by
+Given an integer, WAP that is displayed by
 Example:
 
 12345
