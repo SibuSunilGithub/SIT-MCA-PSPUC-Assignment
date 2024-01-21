@@ -1,5 +1,5 @@
 /*
-Given three values, write a program to read three values from keyboard and print out the largest of them without using if statements...
+Given three values, write a program to read three values from the keyboard and print out the largest of them without using if statements...
 */
 
 #include <stdio.h>
