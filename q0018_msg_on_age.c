@@ -1,6 +1,6 @@
-/* WAP To out put message based on age.
+/* WAP To output message based on age.
 
-0-20    Dance dance!
+0-20    Dance Dance!
 21-30   Study Study!
 31-40   Run Run!
 41-50   Exercise!
